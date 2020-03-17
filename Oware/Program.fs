@@ -17,4 +17,4 @@ let gameState board = failwith "Not implemented"
 [<EntryPoint>]
 let main _ =
     printfn "Hello from F#!"
-    0 // return an integer exit code
+    0 // return an integer exit code fucking fix this code dude i don't understand
